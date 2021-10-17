@@ -1,0 +1,2 @@
+# escudo
+Portuguese digital currency
